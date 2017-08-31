@@ -19,14 +19,12 @@ Phiber is a simple ORM framework that helps you code your applications faster.
 
 # New Features!
 
-  - Persistence
-  - Build websites, apps and api without a single SQL query line.
-  - Choose if you wanna make your SQL manually or by Object Mapping.
+  - Order By, Limit and offset support.
   
 
 
 You can also:
-  - See generated SQL
+  - See generated SQL with show() method.
   - Activate console logs.
   
 This library has been made by a Internet Systems Tecnology's student from Morrinhos - GO, Brazil.
